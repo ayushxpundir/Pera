@@ -35,9 +35,8 @@ Then open `index.html` directly in your browser - that's it!
 
 ## Screenshot
 
-```md
+
 ![Pero Screenshot](assets/screenshot.png)
-```
 
 ## Tech Stack
 
