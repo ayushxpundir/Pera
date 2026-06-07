@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PERA - Bookmark Manager</title>
+    <link rel="shortcut icon" href="Resources/PERA.png" type="image/x-icon">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Google+Sans:ital,opsz,wght@0,17..18,400..700;1,17..18,400..700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <nav>
+            <div>
+                <a href="/">PERA</a>
+            </div>
+            <div>
+                <a href="https://github.com/ayushxpundir" target="_blank" rel="noopener noreferrer">Github</a>
+            </div>
+        </nav>
+    </header>
+    <main>
+        <div class="container">
+            <div class="form">
+                <div class="add-bar">
+                    <input type="text" id="inp-name" placeholder="Site Name (Ex : google)">
+                    <input type="text" id="inp-url" placeholder="Site URL (Ex : google.com)">
+                    <button onclick="addBookmark()">Save</button>
+                </div>
+                <div class="search-bar">
+                    <input type="text" id="inp-search" placeholder="Search Bookmark" oninput="searchBookmark()">
+                </div>
+            </div>
+            <div class="card-con">
+                <div id="card-grid">
+                    <div class="bookmark-card"></div>
+                </div>
+            </div>
+        </div>
+    </main>
+    <footer>
+        <div>
+            <p>&copy; 2026 Ayush Pundir. <br> Released under the MIT License.</p>
+        </div>
+    </footer>
+    <script src="script.js"></script>
+</body>
+
+</html>
