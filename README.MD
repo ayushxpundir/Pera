@@ -1,6 +1,6 @@
 # Pero - Bookmark Manager
 
-> A minimal, dark-themed bookmark manager that lets you save, search, and visit your favorite websites - all from one clean interface. No accounts, no clutter, no distractions.
+A minimal, dark-themed bookmark manager that lets you save, search, and visit your favorite websites - all from one clean interface. No accounts, no clutter, no distractions.
 
 
 ## Features
@@ -13,7 +13,7 @@
 
 ## Getting Started
 
-No build tools or dependencies needed — just open and use!
+No build tools or dependencies needed - just open and use!
 
 ```bash
 # Clone the repository
@@ -30,7 +30,7 @@ Then open `index.html` directly in your browser - that's it!
 
 ## Usage
 
-1. **Add a bookmark** — Paste a URL and Pero will auto-fill the title and description.
+1. **Add a bookmark** - Paste a URL and Pero will auto-fill the title and description.
 4. **Search** - Use the search bar to find any bookmark instantly by title, URL, or tag.
 
 
