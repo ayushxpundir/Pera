@@ -74,6 +74,13 @@ nav {
     color: var(--nav-logo-color);
 }
 
+.github {
+    color: rgb(204, 204, 204);
+}
+
+.logo {
+    font-weight: 700;
+}
 main {
     flex: 1;
     margin: 50px 10px;
