@@ -17,7 +17,7 @@ No build tools or dependencies needed - just open and use!
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/pera.git
+git clone https://github.com/ayushxpundir/Pera.git
 
 # Navigate into the project
 cd pera/Resources
