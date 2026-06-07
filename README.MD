@@ -1,4 +1,4 @@
-# Pero - Bookmark Manager
+# Pera - Bookmark Manager
 
 A minimal, dark-themed bookmark manager that lets you save, search, and visit your favorite websites - all from one clean interface. No accounts, no clutter, no distractions.
 
