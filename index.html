@@ -33,8 +33,18 @@
                     <input type="text" id="inp-url" placeholder="Site URL (Ex : google.com)">
                     <button onclick="addBookmark()">Save</button>
                 </div>
-                <div class="search-bar">
-                    <input type="text" id="inp-search" placeholder="Search Bookmark" oninput="searchBookmark()">
+                <div class="sbar">
+                    <div class="search-bar">
+                        <input type="text" id="inp-search" placeholder="Search Bookmark" oninput="searchBookmark()">
+                    </div>
+                    <div class="backup-controls">
+                        <button id="btn-export" class="export">Export</button>
+
+                        <label for="inp-import" class="custom-file-upload">
+                            Import
+                        </label>
+                        <input type="file" id="inp-import" accept=".json" style="display: none;" />
+                    </div>
                 </div>
             </div>
             <div class="card-con">
