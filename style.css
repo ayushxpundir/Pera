@@ -57,8 +57,10 @@ button,
     font-size: 18px;
     padding: 10px;
     border-radius: 8px;
+    background-color: rgb(2, 110, 2);
 }
 .export {
+    background-color: rgb(146, 7, 18);
     font-size: 18px;
     padding: 10px;
     border-radius: 8px;
