@@ -46,7 +46,7 @@ Then open `index.html` directly in your browser - that's it!
 - **Storage:** Browser localStorage (your bookmarks stay on your device)
 - **Styling:** Custom CSS with responsive media queries
 
----
+
 
 ## Project Structure
 
@@ -62,7 +62,7 @@ PERA/
 └── README.md
 ```
 
----
+
 
 ## Contributing
 
